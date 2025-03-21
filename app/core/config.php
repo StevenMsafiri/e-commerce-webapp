@@ -3,7 +3,7 @@
 define("WEBSITE_NAME", "My Website");
 
 define("DB_TYPE", "mysql");
-define('DB_NAME','e_commerce_db');
+define('DB_NAME','e_comerce_db');
 define("DB_USER", "root");
 define("DB_PASSWORD", "");
 define("DB_HOST", "localhost");
